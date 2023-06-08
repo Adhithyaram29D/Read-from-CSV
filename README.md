@@ -26,4 +26,4 @@ print('Number of Column:',len(f.axes[1]))
 ![Screenshot 2023-06-08 234342](https://github.com/Adhithyaram29D/Read-from-CSV/assets/119393540/1584b1b4-f609-46cb-907b-5a6bd31cd00b)
 
 ## RESULT:
-Thus the program executed succefully.
+Thus the program executed successfully.
