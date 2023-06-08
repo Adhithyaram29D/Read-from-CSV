@@ -3,7 +3,7 @@
 ## AIM:
 To write a python program to read contents from a CSV file.
 ## ALGORITHM:
-### Step 1:
+### Step 1:  
 Import pandas module as pd.
 ### Step 2:
 Using pd.read_csv() method read the CSV file.
