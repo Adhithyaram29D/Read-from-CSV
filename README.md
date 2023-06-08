@@ -15,6 +15,8 @@ Using df.tail() print the last 5 of the CSV file.
 Using len(df.axes[]) print the toal no.of rows and columns with argument 0 for row and argument 1 for column.
 ## PROGRAM:
 ```python
+Developed by: AdhithyaRam D
+Register no:212222230008
 import pandas as pd
 f=pd.read_csv('/content/nba.csv')
 print(f.head(8))
